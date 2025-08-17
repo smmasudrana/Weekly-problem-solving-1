@@ -8,12 +8,12 @@
 
 // "programming is fun"
 
-
 // 🚀 Output:
 
 // 5
 
 
+//answer of this problem;
 function countVowels(vowels){
     const vowel=['a', 'e', 'i','o', 'u']
     const allVowels=[];
